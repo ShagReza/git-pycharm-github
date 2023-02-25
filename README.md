@@ -8,8 +8,8 @@ ShaghReza
 
 
 # Instalations:
-	make a git account
-	install :
+	make a github account
+	install git and git bash
 	Install Pycharm
 
 
