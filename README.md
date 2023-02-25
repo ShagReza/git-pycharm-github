@@ -5,15 +5,15 @@ essential git commands using Pycharm IDE
 ShaghReza
 
 
-#-------------------------------------------------------------
+
 # Instalations:
 	make a git account
 	install : git, git bash
 	Install Pycharm
-#-------------------------------------------------------------	
 
 
-#-------------------------------------------------------------
+
+
 # Local Git using pycharm 
 - First creat a python project using Pycharm (TestFunction.py)
 - Open Git Bash (or do tha same in pycharm terminal)
@@ -54,16 +54,12 @@ ShaghReza
   git diff
   
   git show TestFunction.py (shows what have done on this file)
-#-------------------------------------------------------------  
-  
 
 
-#-------------------------------------------------------------  
 # Gihub
 1- creat a new git repository in github by just clicking on new icon and following the steps
 2- on Pycharm first page click on "get from VCS'
 3- copy the url from github and paste it in Pycharm
 4- clone the file in local repository
 5- paste your local files there
-6- work on local master or branches and push wenever is needed
-#-------------------------------------------------------------  
+6- work on local master or branches and push whenever is needed
