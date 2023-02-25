@@ -7,7 +7,7 @@ ShaghReza
 
 
 
-# Instalations:
+# Instalations
 	make a github account
 	install git and git bash
 	Install Pycharm
@@ -33,7 +33,7 @@ ShaghReza
   * Git log (shows logs)
   * Git window on the bottom left of Pycharm do the same
   
-  * creat a branch by clicking on the branch icon on the right bottom corner of Pycharm
+- creat a branch by clicking on the branch icon on the right bottom corner of Pycharm
   * From this icon we can checkout to different branches
   * we now can work on our branch as a copy of our master
   * git branch (shows all branches)
@@ -44,9 +44,9 @@ ShaghReza
   * making branch and checkout and in
 
 
-  * to merge changes to local master:
-  * git checkout master
-  * git merge Branch
+- to merge changes to local master:
+  * git checkout master (go to your main branch)
+  * git merge Branch (merge the Branch with your main branch)
   
   * git show TestFunction.py (shows what have done on this file)
   
