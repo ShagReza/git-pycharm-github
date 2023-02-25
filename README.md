@@ -43,23 +43,23 @@ ShaghReza
   * git branch checkout name (goes to this branch)
   * making branch and checkout and in
 
-  * push url
 
-  
   * to merge changes to local master:
-  * git checkout mastergit merge Branch
-  
-  * git diff
+  * git checkout master
+  * git merge Branch
   
   * git show TestFunction.py (shows what have done on this file)
   
 
 # Gihub
-1- creat a new git repository in github by just clicking on new icon and following the steps
-2- on Pycharm first page click on "get from VCS'
-3- copy the url from github and paste it in Pycharm
-4- clone the file in local repository
-5- paste your local files there
-6- work on local master or branches and push wenever is needed
+* creat a new git repository in github by just clicking on new icon and following the steps
+* on Pycharm first page click on "get from VCS'
+* copy the url from github and paste it in Pycharm
+* clone the file in local repository
+* paste your local files there
+* work on local master or branches and push whenever is needed
+* use git push ot push botton of Pycharm
 
-  * gitignore (just put the user specific files here)
+# Other useful features
+* gitignore (just put the user specific files here)
+* git diff
